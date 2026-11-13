@@ -1,0 +1,10 @@
+# Lightweight runtime (no torch). Embeddings fall back to TF-IDF.
+numpy>=1.24,<3
+pandas>=2.0,<4
+scikit-learn>=1.3,<2
+openai>=1.0,<3
+google-genai>=1.0,<3
+python-dotenv>=1.0,<2
+streamlit>=1.28,<2
+plotly>=5.17,<7
+requests>=2.31,<3
